@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    
+
+    background-color: #ffffff;
+
+
+}
+
+button{
+    width:20%; 
+    height:25%; 
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-shadow: none;
+    text-align: center;
+    cursor: default;
+    font: 50px arial;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+
+
+
+
+}
